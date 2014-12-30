@@ -1,0 +1,14 @@
+{
+  "name": "krunchypop",
+  "version": "0.0.1",
+  "description": "krunchypop",
+  "dependencies": {
+    "express": "^4.4.2",
+    "socket.io": "^1.0.4",
+    "mongodb": "~2.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "app.js"
+}
